@@ -1,0 +1,5 @@
+print("Daniel")
+print("96")
+print("12")
+print("Sum = 108")
+print("Average = 54")
